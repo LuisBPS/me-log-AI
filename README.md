@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ME LOG AI
 
-You can use the [editor on GitHub](https://github.com/LuisBPS/me-log-AI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Repository for code and test of system log register of life, without categories or parameter of organization, simply data show segun criterio del usuario.
 
 ### Markdown
 
